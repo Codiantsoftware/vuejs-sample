@@ -1,0 +1,29 @@
+{
+      "loginTitle": "Sign in to your account ",
+      "emailLabel": "Email",
+      "passwordLabel": "Password",
+      "loginButton": "Login",
+      "back": "Back",
+      "forgotPassword":"Forgot Password?",
+      "DontHaveAnAccount":"Don't have an Account?",
+      "register":"Register",
+      "registerTitle":"Sign in to your account",
+      "userNameLabel":"Username",
+      "cityLabel":"City",
+      "mobNoLabel":"Mobile No.",
+      "signUpButton":"Sign Up",
+      "alreadyHaveAnAccount":"Already have an Account?",
+      "login":"Login",
+      "updateProfile":"Update Your Profile",
+      "update":"Update",
+      "submit":"Submit",
+      "forgotPasswordTittle":"Forgot Password",
+      "resetPasswordTittle":"Reset Password",
+      "confirmPassword":"Confirm Password",
+      "newPassword":"New Password",
+      "firstName":"First Name",
+      "lastName":"Last Name"
+
+    
+}
+  
